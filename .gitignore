@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.env
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# Builds / Dist
+dist/
+build/
+*.egg-info/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Database (se estiver local)
+*.sqlite3
+*.db
